@@ -9,7 +9,7 @@
 
 ## Installation
 
-1. Download the addon ZIP file from the [Releases](https://github.com/yourusername/Nestify-Blender-Addon/releases) page.
+1. Download the addon ZIP file from the [Releases]([https://github.com/yourusername/Nestify-Blender-Addon/releases](https://github.com/Knoxzen/Nestify/releases)) page.
 2. In Blender, go to `Edit > Preferences > Add-ons`.
 3. Click the "Install" button and select the downloaded ZIP file.
 4. Enable the "Nestify" addon.
